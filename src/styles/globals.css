@@ -1,0 +1,10 @@
+@import 'tailwindcss';
+
+
+.active {
+    display: inline-block;
+}
+
+.inactive {
+    display: none;
+}
