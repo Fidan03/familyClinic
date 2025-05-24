@@ -21,7 +21,9 @@ const Main = () => {
       </section>
 
       <section>
+
         <Gallery/>
+
       </section>
 
     </div>

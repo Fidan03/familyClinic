@@ -1,5 +1,5 @@
-import Slider from '@/components/slider'
 import React from 'react'
+import DocSlider from '../../GallerySlider/index'
 
 const Gallery = () => {
   return (
@@ -7,7 +7,7 @@ const Gallery = () => {
       <p className='text-center mb-[50px] text-neutral-400 text-[35px] font-medium'>Gallery</p>
 
       <div className='mb-[50px]'>
-        <Slider isBackground={false}/>
+        <DocSlider />
       </div>
     </div>
   )
